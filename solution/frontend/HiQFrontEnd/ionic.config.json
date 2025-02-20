@@ -1,0 +1,7 @@
+{
+  "name": "HiQFrontEnd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
